@@ -1,112 +1,76 @@
 # 👋 Hi, I'm Yahiya
 
-\<h3 align="center">
-&#x20; Software Developer | Frontend Engineer | Junior DevOps
-\</h3>
+![Header](https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0F172A,50:1D4ED8,100:06B6D4&text=YAHIYA&fontColor=FFFFFF&fontSize=65&fontAlignY=45&desc=Software%20Developer%20%7C%20Frontend%20Engineer%20%7C%20Junior%20DevOps&descSize=15&descAlignY=65&animation=fadeIn)
 
-\<p align="center">
-&#x20; Building scalable web applications, modern user experiences, and reliable deployment workflows.
-\</p>
-
-\<p align="center">
-&#x20; \<a href="[https://github.com/yahiya166](https://github.com/yahiya166)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-yahiya166-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-yahiya166-181717?style=for-the-badge\&logo=github)" />
-&#x20; \</a>
-&#x20; \<a href="[https://yahiya166.github.io/MyPortFolio](https://yahiya166.github.io/MyPortFolio)">
-&#x20;   \<img src="[https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge\&logo=googlechrome\&logoColor=white)" />
-&#x20; \</a>
-\</p>
+[![GitHub](https://img.shields.io/badge/GitHub-yahiya166-181717?style=for-the-badge&logo=github)](https://github.com/yahiya166)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yahiya166.github.io/MyPortFolio)
 
 ---
 
-### 🚀 About Me
+## `$ whoami`
 
-I'm a Software Developer with **4 years of frontend development experience**, currently working at **Indolj** as a Frontend Developer and Junior DevOps Engineer.
+I'm **Yahiya**, a Software Developer at **Indolj**, with 4 years of experience in frontend engineering.
 
-My focus is building production-ready applications with modern JavaScript technologies, designing maintainable architectures, and improving application performance.
+I build modern web applications, scalable frontend architectures, and backend integrations. I also work with server infrastructure, deployment workflows, and application optimization.
 
-- 💼 Working at **Indolj**
-- ⚛️ Specialized in React.js and Next.js
-- 🛠️ Building backend services and REST APIs with Node.js and Express.js
-- ☁️ Working with Linux servers, Docker, Nginx, Apache, and AWS
-- ⚡ Interested in performance optimization, caching, and scalable architectures
-- 🤖 Exploring AI-assisted software development and engineering workflows
-- 🌱 Always learning and building something new
+**My engineering interests:**
+
+- 🚀 Building scalable applications with React.js and Next.js.
+- ⚛️ Designing maintainable frontend architectures.
+- 🔧 Developing REST APIs and backend integrations.
+- ⚡ Application performance, caching, and optimization.
+- ☁️ Linux server administration and deployment automation.
+- 🤖 Exploring AI-powered development workflows.
 
 ---
 
-### 💻 Technical Skills
+## `$ tech-stack`
 
 **Frontend Development**
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind)" /> \</p>
+![Frontend](https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,html,css&theme=dark)
 
-**Backend Development & Database**
+**Backend & Database**
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase)" /> \</p>
+![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postgres&theme=dark)
 
-**DevOps & Cloud Infrastructure**
+**DevOps & Infrastructure**
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=linux,docker,aws,nginx,apache,bash](https://skillicons.dev/icons?i=linux,docker,aws,nginx,apache,bash)" />
-\</p>
-
-**Development Tools**
-
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,vscode,postman,figma](https://skillicons.dev/icons?i=git,github,vscode,postman,figma)" />
-\</p>
+![DevOps](https://skillicons.dev/icons?i=linux,docker,aws,nginx,git,github,bash&theme=dark)
 
 ---
 
-### ⚙️ What I Work On
+## `$ currently_working_on`
 
-| Area                     | Focus                                     |
-| ------------------------ | ----------------------------------------- |
-| Frontend Engineering     | React.js, Next.js, TypeScript             |
-| Application Architecture | Scalable and maintainable structures      |
-| API Development          | Node.js, Express.js, REST APIs            |
-| State Management         | Redux Toolkit, React Query                |
-| Performance              | Caching, optimization, code splitting     |
-| Infrastructure           | Linux, Docker, Nginx, Apache              |
-| Cloud                    | AWS, S3, EC2, Cloudinary, R2              |
-| Deployment               | Application hosting and server management |
+| Focus | Technologies |
+|:---|:---|
+| Frontend Engineering | React.js, Next.js, TypeScript |
+| Backend Development | Node.js, Express.js, REST APIs |
+| State Management | Redux Toolkit, React Query |
+| Infrastructure | Linux, Docker, Nginx, Apache |
+| Cloud Services | AWS, S3, EC2, Cloudinary, R2 |
+| AI Development | AI-assisted engineering workflows |
 
 ---
 
-### 📊 GitHub Analytics
+## `$ github_stats`
 
-\<p align="center">
-&#x20; \<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=yahiya166&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=yahiya166\&show_icons=true\&theme=tokyonight\&hide_border=true\&include_all_commits=true)" />
-&#x20; \<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=yahiya166&layout=compact&theme=tokyonight&hide_border=true&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=yahiya166\&layout=compact\&theme=tokyonight\&hide_border=true\&langs_count=8)" />
-\</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yahiya166&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
-\<p align="center">
-&#x20; \<img width="70%" src="[https://streak-stats.demolab.com/?user=yahiya166&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com/?user=yahiya166\&theme=tokyonight\&hide_border=true)" />
-\</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yahiya166&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=yahiya166&theme=tokyo-night&hide_border=true&area=true)
 
 ---
 
-### 🐍 Contribution Activity
+## `$ connect`
 
-\<p align="center">
-&#x20; \<img src="[https://raw.githubusercontent.com/yahiya166/yahiya166/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/yahiya166/yahiya166/output/github-contribution-grid-snake-dark.svg)" alt="GitHub contribution animation" />
-\</p>
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/yahiya166)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yahiya166.github.io/MyPortFolio)
 
 ---
 
-### 🌐 Let's Connect
+### Building. Learning. Engineering.
 
-\<p align="center">
-&#x20; \<a href="[https://github.com/yahiya166](https://github.com/yahiya166)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
-&#x20; \</a>
-&#x20; \<a href="[https://yahiya166.github.io/MyPortFolio](https://yahiya166.github.io/MyPortFolio)">
-&#x20;   \<img src="[https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white](https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge\&logo=googlechrome\&logoColor=white)" />
-&#x20; \</a>
-&#x20; \<!-- Add your LinkedIn profile URL here -->
-\</p>
-
-\<p align="center">
-&#x20; \<i>"Building better software, one commit at a time."\</i>
-\</p>
+*Turning ideas into reliable software.*
